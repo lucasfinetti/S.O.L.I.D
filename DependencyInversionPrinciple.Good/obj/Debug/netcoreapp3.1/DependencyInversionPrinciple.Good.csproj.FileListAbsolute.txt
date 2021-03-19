@@ -1,0 +1,8 @@
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\DependencyInversionPrinciple.Good\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.Good.deps.json
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\DependencyInversionPrinciple.Good\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.Good.dll
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\DependencyInversionPrinciple.Good\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.Good.pdb
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\DependencyInversionPrinciple.Good\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.Good.AssemblyInfoInputs.cache
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\DependencyInversionPrinciple.Good\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.Good.AssemblyInfo.cs
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\DependencyInversionPrinciple.Good\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.Good.csproj.CoreCompileInputs.cache
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\DependencyInversionPrinciple.Good\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.Good.dll
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\DependencyInversionPrinciple.Good\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.Good.pdb

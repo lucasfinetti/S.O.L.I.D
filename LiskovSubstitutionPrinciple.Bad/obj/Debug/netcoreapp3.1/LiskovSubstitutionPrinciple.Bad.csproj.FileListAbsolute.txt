@@ -1,0 +1,12 @@
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.exe
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.deps.json
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.runtimeconfig.json
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.runtimeconfig.dev.json
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.dll
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.pdb
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.AssemblyInfoInputs.cache
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.AssemblyInfo.cs
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.csproj.CoreCompileInputs.cache
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.dll
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.pdb
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.genruntimeconfig.cache
