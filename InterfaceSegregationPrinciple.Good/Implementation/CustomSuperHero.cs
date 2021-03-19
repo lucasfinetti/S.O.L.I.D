@@ -1,7 +1,7 @@
-﻿using DependencyInversionPrinciple.Good.Interfaces;
-using DependencyInversionPrinciple.Good.Interfaces.Base;
+﻿using InterfaceSegregationPrinciple.Good.Interfaces;
+using InterfaceSegregationPrinciple.Good.Interfaces.Base;
 
-namespace DependencyInversionPrinciple.Good.Implementation
+namespace InterfaceSegregationPrinciple.Good.Implementation
 {
     public sealed class CustomSuperHero : ISuperHero, IFly, IThunder
     {

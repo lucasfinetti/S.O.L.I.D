@@ -1,8 +1,9 @@
-﻿using DependencyInversionPrinciple.Bad.Interfaces;
+﻿using InterfaceSegregationPrinciple.Bad.Interfaces;
+using System;
 
-namespace DependencyInversionPrinciple.Bad.Implementation
+namespace InterfaceSegregationPrinciple.Bad.Implementation
 {
-    public sealed class SuperMan : ISuperHero
+    public sealed class IronMan : ISuperHero
     {
         public void Fight()
         {
@@ -16,7 +17,7 @@ namespace DependencyInversionPrinciple.Bad.Implementation
 
         public void Run()
         {
-            // Run function
+            throw new Exception("Iron man is not very fast running");
         }
 
         public void Shoot()

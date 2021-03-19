@@ -1,4 +1,4 @@
-﻿namespace DependencyInversionPrinciple.Bad.Interfaces
+﻿namespace InterfaceSegregationPrinciple.Bad.Interfaces
 {
     public interface ISuperHero
     {

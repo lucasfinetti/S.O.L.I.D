@@ -1,8 +1,8 @@
-﻿using DependencyInversionPrinciple.Good.Interfaces.SuperHeros;
+﻿using InterfaceSegregationPrinciple.Good.Interfaces.SuperHeros;
 
-namespace DependencyInversionPrinciple.Good.Implementation
+namespace InterfaceSegregationPrinciple.Good.Implementation
 {
-    public sealed class IronMan : IIronMan
+    public sealed class SuperMan : ISuperMan
     {
         public void Fight()
         {
@@ -12,6 +12,11 @@ namespace DependencyInversionPrinciple.Good.Implementation
         public void Fly()
         {
             // Fly function
+        }
+
+        public void Run()
+        {
+            // Run function
         }
 
         public void Shoot()

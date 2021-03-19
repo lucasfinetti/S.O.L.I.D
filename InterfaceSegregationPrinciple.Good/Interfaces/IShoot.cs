@@ -1,4 +1,4 @@
-﻿namespace DependencyInversionPrinciple.Good.Interfaces
+﻿namespace InterfaceSegregationPrinciple.Good.Interfaces
 {
     public interface IShoot
     {
