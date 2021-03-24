@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tinot\\source\\repos\\S.O.L.I.D\\SingleResponsibilityPrinciple.Good\\SingleResponsibilityPrinciple.Good.csproj",
+      "projectUniqueName": "C:\\Users\\tinot\\Source\\Repos\\S.O.L.I.D2\\SingleResponsibilityPrinciple.Good\\SingleResponsibilityPrinciple.Good.csproj",
       "projectName": "SingleResponsibilityPrinciple.Good",
-      "projectPath": "C:\\Users\\tinot\\source\\repos\\S.O.L.I.D\\SingleResponsibilityPrinciple.Good\\SingleResponsibilityPrinciple.Good.csproj",
+      "projectPath": "C:\\Users\\tinot\\Source\\Repos\\S.O.L.I.D2\\SingleResponsibilityPrinciple.Good\\SingleResponsibilityPrinciple.Good.csproj",
       "packagesPath": "C:\\Users\\tinot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tinot\\source\\repos\\S.O.L.I.D\\SingleResponsibilityPrinciple.Good\\obj\\",
+      "outputPath": "C:\\Users\\tinot\\Source\\Repos\\S.O.L.I.D2\\SingleResponsibilityPrinciple.Good\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

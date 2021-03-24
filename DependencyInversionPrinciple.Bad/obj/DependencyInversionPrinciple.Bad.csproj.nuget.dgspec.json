@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tinot\\source\\repos\\S.O.L.I.D\\DependencyInversionPrinciple.Bad\\DependencyInversionPrinciple.Bad.csproj": {}
+    "C:\\Users\\tinot\\Source\\Repos\\S.O.L.I.D2\\DependencyInversionPrinciple.Bad\\DependencyInversionPrinciple.Bad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tinot\\source\\repos\\S.O.L.I.D\\DependencyInversionPrinciple.Bad\\DependencyInversionPrinciple.Bad.csproj": {
+    "C:\\Users\\tinot\\Source\\Repos\\S.O.L.I.D2\\DependencyInversionPrinciple.Bad\\DependencyInversionPrinciple.Bad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tinot\\source\\repos\\S.O.L.I.D\\DependencyInversionPrinciple.Bad\\DependencyInversionPrinciple.Bad.csproj",
+        "projectUniqueName": "C:\\Users\\tinot\\Source\\Repos\\S.O.L.I.D2\\DependencyInversionPrinciple.Bad\\DependencyInversionPrinciple.Bad.csproj",
         "projectName": "DependencyInversionPrinciple.Bad",
-        "projectPath": "C:\\Users\\tinot\\source\\repos\\S.O.L.I.D\\DependencyInversionPrinciple.Bad\\DependencyInversionPrinciple.Bad.csproj",
+        "projectPath": "C:\\Users\\tinot\\Source\\Repos\\S.O.L.I.D2\\DependencyInversionPrinciple.Bad\\DependencyInversionPrinciple.Bad.csproj",
         "packagesPath": "C:\\Users\\tinot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tinot\\source\\repos\\S.O.L.I.D\\DependencyInversionPrinciple.Bad\\obj\\",
+        "outputPath": "C:\\Users\\tinot\\Source\\Repos\\S.O.L.I.D2\\DependencyInversionPrinciple.Bad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

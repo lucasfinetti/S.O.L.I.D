@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tinot\\source\\repos\\S.O.L.I.D\\InterfaceSegregationPrinciple.Good\\InterfaceSegregationPrinciple.Good.csproj": {}
+    "C:\\Users\\tinot\\Source\\Repos\\S.O.L.I.D2\\InterfaceSegregationPrinciple.Good\\InterfaceSegregationPrinciple.Good.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tinot\\source\\repos\\S.O.L.I.D\\InterfaceSegregationPrinciple.Good\\InterfaceSegregationPrinciple.Good.csproj": {
+    "C:\\Users\\tinot\\Source\\Repos\\S.O.L.I.D2\\InterfaceSegregationPrinciple.Good\\InterfaceSegregationPrinciple.Good.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tinot\\source\\repos\\S.O.L.I.D\\InterfaceSegregationPrinciple.Good\\InterfaceSegregationPrinciple.Good.csproj",
+        "projectUniqueName": "C:\\Users\\tinot\\Source\\Repos\\S.O.L.I.D2\\InterfaceSegregationPrinciple.Good\\InterfaceSegregationPrinciple.Good.csproj",
         "projectName": "InterfaceSegregationPrinciple.Good",
-        "projectPath": "C:\\Users\\tinot\\source\\repos\\S.O.L.I.D\\InterfaceSegregationPrinciple.Good\\InterfaceSegregationPrinciple.Good.csproj",
+        "projectPath": "C:\\Users\\tinot\\Source\\Repos\\S.O.L.I.D2\\InterfaceSegregationPrinciple.Good\\InterfaceSegregationPrinciple.Good.csproj",
         "packagesPath": "C:\\Users\\tinot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tinot\\source\\repos\\S.O.L.I.D\\InterfaceSegregationPrinciple.Good\\obj\\",
+        "outputPath": "C:\\Users\\tinot\\Source\\Repos\\S.O.L.I.D2\\InterfaceSegregationPrinciple.Good\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
