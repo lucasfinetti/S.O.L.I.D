@@ -1,0 +1,8 @@
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\InterfaceSegregationPrinciple.Good\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.Good.AssemblyInfoInputs.cache
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\InterfaceSegregationPrinciple.Good\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.Good.AssemblyInfo.cs
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\InterfaceSegregationPrinciple.Good\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.Good.csproj.CoreCompileInputs.cache
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\InterfaceSegregationPrinciple.Good\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.Good.deps.json
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\InterfaceSegregationPrinciple.Good\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.Good.dll
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\InterfaceSegregationPrinciple.Good\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.Good.pdb
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\InterfaceSegregationPrinciple.Good\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.Good.dll
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\InterfaceSegregationPrinciple.Good\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.Good.pdb

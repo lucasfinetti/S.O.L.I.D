@@ -1,0 +1,13 @@
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.exe
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.deps.json
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.runtimeconfig.json
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.runtimeconfig.dev.json
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.dll
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.pdb
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.AssemblyInfoInputs.cache
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.AssemblyInfo.cs
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.csproj.CoreCompileInputs.cache
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.dll
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.pdb
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.genruntimeconfig.cache
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.csprojAssemblyReference.cache
