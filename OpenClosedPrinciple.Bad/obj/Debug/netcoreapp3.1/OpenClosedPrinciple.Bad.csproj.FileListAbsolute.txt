@@ -10,3 +10,4 @@ C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\obj\Debug\netcore
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.dll
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.pdb
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.genruntimeconfig.cache
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\OpenClosedPrinciple.Bad\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.Bad.csprojAssemblyReference.cache

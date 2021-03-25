@@ -17,7 +17,7 @@ namespace InterfaceSegregationPrinciple.Bad.Implementation
 
         public void Run()
         {
-            throw new Exception("Iron man is not very fast running");
+            throw new Exception("Iron man isn't very fast running");
         }
 
         public void Shoot()

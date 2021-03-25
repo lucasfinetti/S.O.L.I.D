@@ -1,7 +1,4 @@
-C:\Users\tinot\Source\Repos\S.O.L.I.D2\SingleResponsibilityPrinciple.Good\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.Good.exe
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\SingleResponsibilityPrinciple.Good\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.Good.deps.json
-C:\Users\tinot\Source\Repos\S.O.L.I.D2\SingleResponsibilityPrinciple.Good\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.Good.runtimeconfig.json
-C:\Users\tinot\Source\Repos\S.O.L.I.D2\SingleResponsibilityPrinciple.Good\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.Good.runtimeconfig.dev.json
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\SingleResponsibilityPrinciple.Good\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.Good.dll
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\SingleResponsibilityPrinciple.Good\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.Good.pdb
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\SingleResponsibilityPrinciple.Good\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.Good.AssemblyInfoInputs.cache
@@ -9,4 +6,4 @@ C:\Users\tinot\Source\Repos\S.O.L.I.D2\SingleResponsibilityPrinciple.Good\obj\De
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\SingleResponsibilityPrinciple.Good\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.Good.csproj.CoreCompileInputs.cache
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\SingleResponsibilityPrinciple.Good\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.Good.dll
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\SingleResponsibilityPrinciple.Good\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.Good.pdb
-C:\Users\tinot\Source\Repos\S.O.L.I.D2\SingleResponsibilityPrinciple.Good\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.Good.genruntimeconfig.cache
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\SingleResponsibilityPrinciple.Good\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.Good.csprojAssemblyReference.cache

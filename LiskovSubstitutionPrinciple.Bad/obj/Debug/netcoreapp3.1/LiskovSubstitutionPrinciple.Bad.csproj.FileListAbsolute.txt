@@ -10,3 +10,4 @@ C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\obj\Debug
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.dll
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.pdb
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.genruntimeconfig.cache
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\LiskovSubstitutionPrinciple.Bad\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.Bad.csprojAssemblyReference.cache

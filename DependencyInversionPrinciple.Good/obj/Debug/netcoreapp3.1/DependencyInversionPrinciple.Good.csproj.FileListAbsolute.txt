@@ -6,3 +6,4 @@ C:\Users\tinot\Source\Repos\S.O.L.I.D2\DependencyInversionPrinciple.Good\obj\Deb
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\DependencyInversionPrinciple.Good\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.Good.csproj.CoreCompileInputs.cache
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\DependencyInversionPrinciple.Good\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.Good.dll
 C:\Users\tinot\Source\Repos\S.O.L.I.D2\DependencyInversionPrinciple.Good\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.Good.pdb
+C:\Users\tinot\Source\Repos\S.O.L.I.D2\DependencyInversionPrinciple.Good\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.Good.csprojAssemblyReference.cache
